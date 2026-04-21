@@ -20,7 +20,9 @@ A clean, responsive business card designed with "HTML" and "CSS".
 2. Open `index.html` in your browser.
 
 ## Screenshots
-(Add images of your card on desktop and mobile here)
+screenshot.png/
+
+
 
 ## What I Learned
 - Responsive design techniques
