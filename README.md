@@ -24,7 +24,6 @@ A clean, responsive business card designed with "HTML" and "CSS".
 
 ## What I Learned
 - Responsive design techniques
-- CSS animations/transitions
-- etc.
+- CSS margin/padding, text alignment, font size, anchor-link effects, border radius/effects, background color, etc.
 
 Made with ❤️ as a frontend practice project.
