@@ -19,9 +19,6 @@ A clean, responsive business card designed with "HTML" and "CSS".
 1. Clone the repo: `git clone https://github.com/ankamahjohnson/business-card.git`
 2. Open `index.html` in your browser.
 
-## Screenshots
-screenshot.png/
-
 
 
 ## What I Learned
