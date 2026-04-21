@@ -10,7 +10,7 @@ A clean, responsive business card designed with "HTML" and "CSS".
 
 ## Tech Stack
 - HTML5
-- CSS3
+- CSS
 
 ## Live Demo
 [View Live Business Card](https://ankamahjohnson.github.io/business-card/)  <!-- This link appears after Step 5 -->
