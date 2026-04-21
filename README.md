@@ -1,2 +1,30 @@
-# Digital-business-card
-Designed a responsive personal business card with "html" and "css"
+# Digital Business Card
+A clean, responsive business card designed with "HTML" and "CSS".
+
+![Business Card Preview](screenshot.png)  <!-- Add a screenshot later -->
+
+## Features
+- Fully responsive (works on mobile & desktop)
+- CSS styling (margin/padding, text alignment, font size, anchor-link effects, border radius/effects, background color, etc.)
+- Easy to customize colors and content
+
+## Tech Stack
+- HTML5
+- CSS3
+
+## Live Demo
+[View Live Business Card](https://ankamahjohnson.github.io/business-card/)  <!-- This link appears after Step 5 -->
+
+## How to View Locally
+1. Clone the repo: `git clone https://github.com/ankamahjohnson/business-card.git`
+2. Open `index.html` in your browser.
+
+## Screenshots
+(Add images of your card on desktop and mobile here)
+
+## What I Learned
+- Responsive design techniques
+- CSS animations/transitions
+- etc.
+
+Made with ❤️ as a frontend practice project.
