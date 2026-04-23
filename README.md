@@ -4,16 +4,21 @@ A clean, responsive business card designed with "HTML" and "CSS".
 ![Business Card Preview](screenshot.png)  <!-- Add a screenshot later -->
 
 ## Features
-- Fully responsive (works on mobile & desktop)
-- CSS styling (margin/padding, text alignment, font size, anchor-link effects, border radius/effects, background color, etc.)
-- Easy to customize colors and content
+- Modern single-page business card design
+- Fully responsive layout (works on mobile & desktop)
+- Beautiful visual hierarchy with prominent profile image and clear contact information
+- Well-organized sections: Personal info, Contact details, and Social links.
+- Hover-friendly and interactive social links (Twitter, Instagram, GitHub)
+- Pure HTML5 and CSS3 — no frameworks or external libraries used
+
 
 ## Tech Stack
 - HTML5
 - CSS
 
 ## Live Demo
-[View Live Business Card]🌐([https://ankamahjohnson.github.io/digital-business-card](https://ankamahjohnson.github.io/Digital-business-card/)  <!-- This link appears after Step 5 -->
+[View Live Business Card]🌐([https://ankamahjohnson.github.io/digital-business-card]
+https://ankamahjohnson.github.io/Digital-business-card/  <!-- This link appears after Step 5 -->
 
 ## How to View Locally
 1. Clone the repo: `git clone https://github.com/ankamahjohnson/business-card.git`
@@ -23,6 +28,10 @@ A clean, responsive business card designed with "HTML" and "CSS".
 
 ## What I Learned
 - Responsive design techniques
-- CSS margin/padding, text alignment, font size, anchor-link effects, border radius/effects, background color, etc.
+- Effective use of CSS (margin/padding, alignment, layout, font size, anchor-link effects, border radius/effects, background color, etc.)
+- Making designs fully responsive with media queries and proper viewport settings.
+- Improving typography hierarchy and visual balance in a constrained space.
+- Organizing and styling social media links for better user experience.
+- How to prepare and host a static frontend project on GitHub with GitHub Pages for live demonstration.
 
 Made with ❤️ as a frontend practice project.
