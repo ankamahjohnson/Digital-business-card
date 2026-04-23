@@ -1,7 +1,7 @@
 # Digital Business Card
 A clean, responsive business card designed with "HTML" and "CSS".
 
-![Business Card Preview](screenshot.png)  <!-- Add a screenshot later -->
+![Business Card Preview](screenshot.png)
 
 ## Features
 - Modern single-page business card design
@@ -18,10 +18,10 @@ A clean, responsive business card designed with "HTML" and "CSS".
 
 ## Live Demo
 [View Live Business Card]🌐
-https://ankamahjohnson.github.io/Digital-business-card/  <!-- This link appears after Step 5 -->
+https://ankamahjohnson.github.io/Digital-business-card/  
 
 ## How to View Locally
-1. Clone the repo: `git clone https://github.com/ankamahjohnson/business-card.git`
+1. Clone the repo: `git clone https://github.com/ankamahjohnson/Digital-business-card.git`
 2. Open `index.html` in your browser.
 
 
