@@ -17,7 +17,7 @@ A clean, responsive business card designed with "HTML" and "CSS".
 - CSS
 
 ## Live Demo
-[View Live Business Card]🌐([https://ankamahjohnson.github.io/digital-business-card]
+[View Live Business Card]🌐
 https://ankamahjohnson.github.io/Digital-business-card/  <!-- This link appears after Step 5 -->
 
 ## How to View Locally
