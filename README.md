@@ -13,8 +13,8 @@ A clean, responsive business card designed with "HTML" and "CSS".
 
 
 ## Tech Stack
-- HTML5
-- CSS
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
 
 ## Live Demo
 [View Live Business Card]🌐
