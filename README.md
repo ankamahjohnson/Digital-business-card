@@ -33,5 +33,7 @@ https://ankamahjohnson.github.io/Digital-business-card/
 - Improving typography hierarchy and visual balance in a constrained space.
 - Organizing and styling social media links for better user experience.
 - How to prepare and host a static frontend project on GitHub with GitHub Pages for live demonstration.
+- How to prepare and host a static frontend project on GitHub with GitHub Pages for live demonstration.
+
 
 Made with ❤️ as a frontend practice project.
