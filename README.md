@@ -17,7 +17,7 @@ A clean, responsive business card designed with "HTML" and "CSS".
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Live Demo
-[View Live Business Card]🌐
+View Live Business Card🌐
 https://ankamahjohnson.github.io/Digital-business-card/  
 
 ## How to View Locally
@@ -28,7 +28,7 @@ https://ankamahjohnson.github.io/Digital-business-card/
 
 ## What I Learned
 - Responsive design techniques
-- Effective use of CSS (margin/padding, alignment, layout, font size, anchor-link effects, border radius/effects, background color, etc.)
+- Effective use of CSS (margin,padding, text alignment, layout, font size, anchor-link effects, border radius effects, background color, link styling, etc.)
 - Making designs fully responsive with media queries and proper viewport settings.
 - Improving typography hierarchy and visual balance in a constrained space.
 - Organizing and styling social media links for better user experience.
