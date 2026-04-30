@@ -28,7 +28,7 @@ https://ankamahjohnson.github.io/Digital-business-card/
 
 ## What I Learned
 - Responsive design techniques
-- Effective use of CSS (margin,padding, text alignment, layout, font size, anchor-link effects, border radius effects, background color, link styling, etc.)
+- Effective use of CSS (margin, padding, text alignment, layout, font size, anchor-link effects, border radius effects, background color, link styling, etc.)
 - Making designs fully responsive with media queries and proper viewport settings.
 - Improving typography hierarchy and visual balance in a constrained space.
 - Organizing and styling social media links for better user experience.
