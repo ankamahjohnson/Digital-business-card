@@ -1,7 +1,9 @@
 # Digital Business Card
 A clean, responsive digital business card built with "HTML" and "CSS".
 
-
+## Live Demo
+View Live 🌐
+https://ankamahjohnson.github.io/Digital-business-card/  
 
 ## Features
 - Modern single-page business card design.
@@ -17,10 +19,6 @@ A clean, responsive digital business card built with "HTML" and "CSS".
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Live Demo
-View Live 🌐
-https://ankamahjohnson.github.io/Digital-business-card/  
 
 
 
